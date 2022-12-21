@@ -2,9 +2,6 @@
 
 Hello, I'm Ángel González González a software Engineer
 
-<a href="https://github.com/MacroPower/MacroPower">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
-</a>
 [![Linkedin: agonzg40](https://img.shields.io/badge/-agonzg40-blue?style=flat-square&logo=Linkedin&logoColor=white&link=enlace/)
 [![GitHub agonzg40](https://img.shields.io/github/followers/agonzg40?label=follow&style=social)](enlace)
 
