@@ -2,7 +2,7 @@
 
 Hello, I'm Ángel González González a software Engineer
 
-[![Linkedin: agonzg40](https://img.shields.io/badge/-agonzg40-blue?style=flat-square&logo=Linkedin&logoColor=white&link=enlace/)
+[![Linkedin: agonzg40](https://img.shields.io/badge/-agonzg40-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[enlace](https://www.linkedin.com/in/ángel-gonzález-gonzález-6a1990185/)/)
 [![GitHub agonzg40](https://img.shields.io/github/followers/agonzg40?label=follow&style=social)](enlace)
 
 
