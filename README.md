@@ -2,12 +2,12 @@
 
 Hello, I'm Ángel González González a software Engineer
 
-[![Linkedin: agonzg40](https://img.shields.io/badge/-agonzg40-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[enlace](https://www.linkedin.com/in/ángel-gonzález-gonzález-6a1990185/)/)
+[![Linkedin: agonzg40](https://img.shields.io/badge/-agonzg40-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/ángel-gonzález-gonzález-6a1990185]/)
 [![GitHub agonzg40](https://img.shields.io/github/followers/agonzg40?label=follow&style=social)]
 
 
 
-| <a href="https://github.com/agonzg40/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agonzg40&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="agonzg40's github stats" /></a> | <a href="https://github.com/agonzg40/github-readme-stats"><img align="center" src="https://readme-stats-spelljinxer.vercel.app/api/top-langs?username=agonzg40&layout=compact&theme=dracula"/><br></a> |
+| <a href="https://github.com/agonzg40/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=agonzg40&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="agonzg40's github stats" /></a> | <a href="https://github.com/agonzg40/github-readme-stats"><img align="center" src="https://readme-stats-spelljinxer.vercel.app/api/top-langs?username=agonzg40&layout=compact&theme=buefy&hide_border=true"/><br></a> |
 | ------------- | ------------- |
 
 
